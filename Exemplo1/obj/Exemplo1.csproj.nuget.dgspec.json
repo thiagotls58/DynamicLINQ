@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\intepp\\source\\repos\\thiagotls58\\DynamicLINQ\\Exemplo1\\Exemplo1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\intepp\\source\\repos\\thiagotls58\\DynamicLINQ\\Exemplo1\\Exemplo1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\intepp\\source\\repos\\thiagotls58\\DynamicLINQ\\Exemplo1\\Exemplo1.csproj",
+        "projectName": "Exemplo1",
+        "projectPath": "C:\\Users\\intepp\\source\\repos\\thiagotls58\\DynamicLINQ\\Exemplo1\\Exemplo1.csproj",
+        "packagesPath": "C:\\Users\\intepp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\intepp\\source\\repos\\thiagotls58\\DynamicLINQ\\Exemplo1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\intepp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Z.Expressions.Eval": {
+              "target": "Package",
+              "version": "[2.9.55, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
